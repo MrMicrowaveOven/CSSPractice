@@ -21,7 +21,16 @@ li {
   list-style-type: none;
   width: 200px;
   float: right;
-  line-height: 130%;
+  line-height: 150%;
+}
+
+li:hover {
+  color: red;
+  cursor: pointer;
+}
+li:hover .circle{
+  color: white;
+  background-color: blue;
 }
 
 .list-items {
