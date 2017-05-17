@@ -23,6 +23,21 @@ li {
   float: right;
   line-height: 150%;
 }
+.left {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 500px
+}
+.left-text {
+  background-color: white;
+  /*height: 100px;*/
+  /*line-height: 100px;*/
+  max-width: 400px;
+  text-align: center;
+  font-size: xx-large;
+  padding: 10px;
+}
 
 li:hover {
   color: red;
