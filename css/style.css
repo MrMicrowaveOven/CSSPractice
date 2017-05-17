@@ -81,6 +81,7 @@ li:hover .circle{
 
 .header-square {
   background-color: deeppink;
+  box-shadow: inset 0px 0px 10px 2px rgba(0,0,0,.75);
   height: 36px;
   width: 36px;
   float: right;
