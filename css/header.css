@@ -1,0 +1,22 @@
+.header {
+  height: 50px;
+  width: 100%;
+  background-color: aqua;
+}
+
+.header-text {
+  height: 50px;
+  line-height: 50px;
+  text-align: left;
+  font-size: x-large;
+  padding-left: 15px;
+}
+
+.header-square {
+  background-color: deeppink;
+  box-shadow: inset 0px 0px 10px 2px rgba(0,0,0,.75);
+  height: 36px;
+  width: 36px;
+  float: right;
+  margin: 7px;
+}

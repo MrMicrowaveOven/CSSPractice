@@ -1,0 +1,16 @@
+.left {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 500px
+}
+.left-text {
+  max-width: 400px;
+  text-align: center;
+  font-size: 40px;
+  padding: 20px;
+}
+
+.left-text {
+  background: linear-gradient(to right, white, rgba(255, 255, 255, 0))
+}
