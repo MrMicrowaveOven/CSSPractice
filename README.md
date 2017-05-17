@@ -4,6 +4,8 @@ Replicate this image using only CSS.
 
 ![alt text](design.png)
 
+You can check out where I'm at so far by clicking [here](https://mrmicrowaveoven.github.io/CSSPractice/)
+
 ## Fine Print
 
 The design is not quite to scale FWIW. You should attempt to achieve the following goals:
