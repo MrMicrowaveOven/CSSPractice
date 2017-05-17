@@ -3,3 +3,61 @@
   width: 100%;
   background-color: aqua;
 }
+
+body {
+  font-family: sans-serif;
+  height: 1000px;
+}
+.main {
+  background-color: black
+}
+.right {
+  background-color: yellow;
+  float: right;
+  height: 100%;
+  width: 200px;
+}
+li {
+  list-style-type: none;
+  width: 200px;
+  float: right;
+  line-height: 130%;
+}
+
+.list-items {
+  padding-left: 0px;
+  text-align: center;
+}
+
+.circle {
+	border-radius: 50%;
+	width: 50px;
+	height: 50px;
+  line-height: 50px;
+  background-color: red;
+  text-align: center;
+  font-size: 35px;
+  float: left;
+  margin: 5px;
+}
+
+.list-description {
+  position: absolute;
+  bottom: 5px;
+}
+
+.header-text {
+  height: 50px;
+  line-height: 50px;
+  text-align: left;
+  font-size: x-large;
+  padding-left: 15px;
+}
+
+.header-square {
+  background-color: deeppink;
+  height: 36px;
+  width: 36px;
+  float: right;
+  margin: 7px;
+}
