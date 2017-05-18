@@ -1,6 +1,9 @@
 .green-triangle {
 	width: 0;
 	height: 0;
-	border-bottom: 75vw solid lime;
-	border-right: 75vw solid transparent;
+	border-bottom: 700px solid lime;
+	border-right: 700px solid transparent;
+  /*border-style: solid;
+  border-width: 75vw 0 0 75vw;
+  border-color: transparent transparent transparent limegreen;*/
 }
