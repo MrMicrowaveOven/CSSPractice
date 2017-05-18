@@ -4,9 +4,12 @@
   height: 100%;
   width: 200px;
   position: absolute;
-  top: 55px;
-  right: 5px;
+  top: 50px;
+  right: 0px;
   overflow-y: scroll;
+  border: black;
+  border-width: 5px;
+  border-style: solid;
 }
 
 ul {

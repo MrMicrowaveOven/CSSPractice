@@ -8,6 +8,6 @@ body {
   margin: 0px;
 }
 .main {
-  background-color: black;
+  background-color: rgba(255, 255, 255, 0);
   height: 700px;
 }
