@@ -12,8 +12,5 @@
   text-align: center;
   font-size: 40px;
   padding: 20px;
-}
-
-.left-text {
   background: linear-gradient(to right, white, rgba(255, 255, 255, 0))
 }
