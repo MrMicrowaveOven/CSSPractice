@@ -42,7 +42,7 @@ li:hover .circle{
   width: 125px;
   padding-left: 15px;
   padding-top: 8px;
-  display: grid;
+  display: inline-block;
   font-size: larger;
   line-height: 28px;
 }
