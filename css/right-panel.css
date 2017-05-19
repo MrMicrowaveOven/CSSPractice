@@ -4,10 +4,10 @@
   flex: 0 0 200px;
   top: 50px;
   right: 0px;
-  overflow-y: scroll;
   border: black;
   border-width: 5px;
   border-style: solid;
+  overflow: inherit;
 }
 
 .list-item-text {
@@ -22,6 +22,7 @@
 
 ul {
   margin: 3px 0px;
+  overflow-y: scroll;
 }
 
 li {
