@@ -6,7 +6,7 @@ Replicate this image using only CSS.
 
 You can check out where I'm at so far by clicking [here](https://mrmicrowaveoven.github.io/CSSPractice/)
 
-## Fine Print
+## The Rules
 
 The design is not quite to scale FWIW. You should attempt to achieve the following goals:
 * Produce a single HTML file with no external dependencies
