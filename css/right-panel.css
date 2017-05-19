@@ -10,8 +10,18 @@
   border-style: solid;
 }
 
+.list-item-text {
+  height: 60px;
+  width: 125px;
+  padding-left: 15px;
+  padding-top: 8px;
+  display: grid;
+  font-size: larger;
+  line-height: 28px;
+}
+
 ul {
-  margin: 8px 0px;
+  margin: 3px 0px;
 }
 
 li {
@@ -32,19 +42,19 @@ li:hover .circle{
 
 .list-items {
   padding-left: 0px;
-  text-align: center;
+  text-align: left;
 }
 
 .circle {
 	border-radius: 50%;
-  width: 70px;
-  height: 70px;
-  line-height: 70px;
+  width: 50px;
+  height: 50px;
+  line-height: 50px;
   background-color: red;
   text-align: center;
   font-size: 35px;
   float: left;
-  margin: 10px 0px 10px 20px;
+  margin: 10px 0px 10px 10px;
 }
 
 .list-description {
