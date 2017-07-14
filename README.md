@@ -4,7 +4,7 @@ Replicate this image using only CSS.
 
 ![alt text](design.png)
 
-You can check out where I'm at so far by clicking [here](https://mrmicrowaveoven.github.io/CSSPractice/)
+Click [here](https://mrmicrowaveoven.github.io/CSSPractice/) to see my solution to the challenge.
 
 ## The Rules
 
